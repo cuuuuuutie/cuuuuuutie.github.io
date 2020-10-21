@@ -3,6 +3,7 @@ languageCode = "en"
 title = "SXY"
 theme = "charaka-hugo-theme"
 copyright = "&copy; <a href=\"https://cuuuuuutie.github.io/\">SXY</a> 2018~2020"
+publishDir = "docs"
 disqusShortname = ""
 googleAnalytics = ""
 
