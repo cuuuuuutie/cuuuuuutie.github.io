@@ -1,3 +1,28 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://cuuuuuutie.github.io"
+languageCode = "en"
+title = "SXY"
+theme = "charaka-hugo-theme"
+copyright = "&copy; <a href=\"https://cuuuuuutie.github.io/\">SXY</a> 2018~2020"
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info" 
+
+[[params.social]]
+  url = "https://cuuuuuutie.github.io/"
+  fa_icon = "fab fa-github"
+
+[[params.social]]
+  url = ""
+  fa_icon = "fab fa-linkedin-in"
+
+[[params.social]]
+  url = ""
+  fa_icon = "fab fa-twitter"
